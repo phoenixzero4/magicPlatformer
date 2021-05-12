@@ -1,0 +1,6 @@
+/// @desc
+function EnemyStateDead(){
+	
+	
+	
+}
